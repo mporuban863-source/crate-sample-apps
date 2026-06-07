@@ -1,4 +1,4 @@
-.. highlight:: sh
+
 
 ===================================
 CrateDB guestbook demo applications
